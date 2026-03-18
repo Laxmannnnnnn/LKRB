@@ -1,0 +1,14 @@
+User Story:
+As a student, I want to view my daily and weekly class schedule so that I can easily keep track of my classes and timings.
+
+Real Issue Description:
+Build a schedule page that displays all classes by day and week using sample data. Must show subject, time, professor, and classroom. Daily and weekly toggle required.
+
+Owner: Kushal Kharka
+Branch: feature/view-schedule
+
+Definition of Done (DoD):
+Class schedule is visible and formatted properly.
+Data shown includes all class details.
+Responsive layout for mobile view.
+
